@@ -1,0 +1,5 @@
+{
+  "name": "Health Score AI",
+  "description": "An AI-powered application that analyzes health reports, generates a health score, provides actionable suggestions, and helps users track their progress with a personalized two-week plan. Data is persisted using a simulated Firestore backend.",
+  "requestFramePermissions": []
+}
